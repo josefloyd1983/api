@@ -18,6 +18,7 @@ public class Errores {
 	}
 	
 	// Codigos
+	// test1
 	public static final String	ERROR_JOB					= "001";
 	
 	// mensajes
